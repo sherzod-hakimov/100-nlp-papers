@@ -44,6 +44,9 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * [Yihan Liu et al. RoBERTa: A Robustly Optimized BERT Pretraining Approach, 2020.](https://arxiv.org/abs/1907.11692)
 
+* [Jared Kaplan et al. Scaling Laws for Neural Language Models, 2020](https://arxiv.org/abs/2001.08361)
+
+
 ## Clustering & Word/Sentence Embeddings
 
 * [Peter F Brown, et al.: Class-Based n-gram Models of Natural Language, 1992.](https://www.cs.cmu.edu/~roni/11761/PreviousYearsHandouts/classlm.pdf)
@@ -86,6 +89,12 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 * [Alec Radford, et al.: Language Models are Unsupervised Multitask Learners, 2018.](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
 
+* [Long Ouyang: Training language models to follow instructions with human feedback, 2022](https://arxiv.org/abs/2203.02155)
+
+* [Tom B. Brown et al.: Language Models are Few-Shot Learners, 2020](https://arxiv.org/abs/2005.14165)
+
+* 
+
 ## Segmentation, Tagging, Parsing
 
 * [Donald Hindle and Mats Rooth. Structural Ambiguity and Lexical Relations, Computational Linguistics, 1993.](https://aclanthology.org/J93-1005.pdf)
@@ -121,6 +130,8 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 * [Zhiheng Huang et al.: Bidirectional LSTM-CRF Models for Sequence Tagging, 2015.](https://arxiv.org/pdf/1508.01991.pdf)
 
 * [Xuezhe Ma and Eduard Hovy: End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF, ACL 2016.](https://arxiv.org/pdf/1603.01354.pdf)
+
+* [Xiang Zhang, Junbo Zhao, Yann LeCun: Character-level Convolutional Networks for Text Classification, 2015](https://proceedings.neurips.cc/paper/2015/hash/250cf8b51c773f3f8dc8b4be867a9a02-Abstract.html)
 
 ## Machine Translation & Transliteration, Sequence-to-Sequence Models
 
